@@ -20,7 +20,7 @@ li {
   font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54em;
+  letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 
@@ -39,7 +39,7 @@ li {
   font-size: 18px;
   font-style: normal;
   line-height: 1.17;
-  letter-spacing: 0.54em;
+  letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 
@@ -51,7 +51,7 @@ li {
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.32em;
+  letter-spacing: 0.32px;
 }
 
 .link-nav:hover,
@@ -68,7 +68,7 @@ li {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32em;
+  letter-spacing: 0.32px;
 }
 
 .link-contacts:hover,
@@ -83,7 +83,7 @@ li {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32em;
+  letter-spacing: 0.32px;
 }
 
 .link-contacts-menu:hover,
@@ -103,7 +103,7 @@ li {
   font-style: normal;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 1.12em;
+  letter-spacing: 1.12px;
 }
 
 .hero-button {
@@ -115,7 +115,7 @@ li {
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.64em;
+  letter-spacing: 0.64px;
 }
 
 .hero-button:hover,
@@ -132,7 +132,7 @@ li {
   font-style: normal;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72em;
+  letter-spacing: 0.72px;
   text-transform: capitalize;
 }
 
@@ -143,7 +143,7 @@ li {
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4em;
+  letter-spacing: 0.4px;
 }
 
 .list-text {
@@ -153,7 +153,7 @@ li {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32em;
+  letter-spacing: 0.32px;
 }
 
 /*Our Team*/
@@ -177,7 +177,7 @@ li {
   font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54em;
+  letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 
@@ -188,5 +188,5 @@ li {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32em;
+  letter-spacing: 0.32px;
 }
